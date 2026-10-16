@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Emre 👋
 
-<!--
-**emrecandabak/emrecandabak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Control & Automation Engineering @ ITU**
 
-Here are some ideas to get you started:
+I'm interested in robotics, autonomous systems, and intelligent control, with a focus on reinforcement learning and legged locomotion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- Robotics & Autonomous Control
+- Reinforcement Learning & Legged Locomotion
+- Reverse Engineering & Software Security
+
+## Skills & Tools
+
+**Programming Languages**
+
+`Python` · `Go` · `Java` · `C#` · `C++`
+
+**Robotics & AI**
+
+`NVIDIA Isaac Lab` · `Isaac Sim` · `PyTorch` · `WPILib` · `OpenCV`
+
+**Tools & Environment**
+
+`Linux` · `Git`
+
